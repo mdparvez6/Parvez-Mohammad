@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parvez Mohammad</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/mdparvez6/Parvez-Mohammad/assets/145032480/1aa25d88-9629-4a57-9c9a-4661067dfa83" />
+<img align="right" alt="coding" width="400" src="https://github.com/mdparvez6/Parvez-Mohammad/assets/145032480/1aa25d88-9629-4a57-9c9a-4661067dfa83.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdparvez6&label=Profile%20views&color=0e75b6&style=flat" alt="mdparvez6" /> </p>
 
 - 🔭 I’m currently working on [Jobify](https://github.com/mdparvez6/Jobify)
